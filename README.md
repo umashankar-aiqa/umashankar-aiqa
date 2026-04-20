@@ -76,4 +76,14 @@ Validates AI responses for:
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=umashankar-aiqa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=umashankar-aiqa&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=umashankar-aiqa&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 **AI QA Engineer | Automation Specialist | Building Next-Gen Testing Systems**
